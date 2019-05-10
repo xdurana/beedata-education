@@ -55,11 +55,9 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 
 - 03/06/2019: Automating with Jenkins
 
-- 10/06/2019: Normativa autoconsum
 
-- 17/06/2019: Pythonic objects
+Utilizar la [Coffee talks spreadsheet](https://docs.google.com/spreadsheets/d/1FcuOdyawGCobi_Agr2dN4FZNNGE2mXT9_XzuXvuwGco/edit?usp=sharing) per proposar nous temes, per votar i prioritzar-los, per autoassignar-se sessions, etc.
 
-[Coffee talks spreadsheet](https://docs.google.com/spreadsheets/d/1FcuOdyawGCobi_Agr2dN4FZNNGE2mXT9_XzuXvuwGco/edit?usp=sharing)
 ---
 
 ## Repositori
