@@ -1,0 +1,77 @@
+---
+title: "Beedata's coffee talks"
+subtitle: "a proposal"
+author: "Aleix Badia & Xavier Duran"
+institute: "Beedata analytics"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+background-image: url(https://beedataanalytics.com/wp-content/uploads/2017/07/beedata-logo-300x75px-clar.png)
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+???
+
+Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
+
+---
+
+## Perquè?
+
+- Formació interna
+
+- Estandarditzar metodologies de desenvolupament
+
+- Repositori de documentació en forma de presentacions per properes incorporacions
+
+- Discussió filosòfica fora dels sprints
+
+---
+
+## Format
+
+- Dilluns a alguna hora
+
+- Variacions
+
+    - Cafè curt: 15 minuts de presentació, 15 minuts de discussió
+    
+    - Cafè llarg: fins a 45 minuts de presentació, 15 minuts de discussió
+
+---
+
+## Calendari
+
+- 27/05/2019: Debugging BeeData MR platform
+
+- 03/06/2019: Automating with Jenkins
+
+- 10/06/2019: Normativa autoconsum
+
+- 17/06/2019: Pythonic objects
+
+[Coffee talks spreadsheet](https://docs.google.com/spreadsheets/d/1FcuOdyawGCobi_Agr2dN4FZNNGE2mXT9_XzuXvuwGco/edit?usp=sharing)
+---
+
+## Repositori
+
+https://github.com/BeeGroup-cimne/beedata-education
+
+---
+
+class: center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
